@@ -75,6 +75,10 @@ These solutions allowed for the successful development of an accurate and robust
 
 This project successfully fine-tuned the YOLOv8 model for license plate detection. The combination of a well-structured dataset, appropriate training parameters, and evaluation metrics has resulted in a robust license plate detection system.
 
+## Team Members
+
+Kashaf Jamil (Team leader), Abdelrahman Katkat, SaifUllah Khan, Wassay Abbasi, Anton Azarov
+
 
 
 
